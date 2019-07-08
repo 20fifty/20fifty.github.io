@@ -1187,13 +1187,13 @@ p {
     margin-bottom: 50px;
 }
 
-#name {
+#full-name {
     font-size: 18px;
     padding: 15px 15px;
     border-radius: 25px 25px 25px 0;
 }
 
-#email {
+#email-address {
     font-size: 18px;
     padding: 15px 15px;
     border-radius: 25px 25px 25px 0;
